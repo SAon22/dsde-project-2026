@@ -1,0 +1,5 @@
+# Environment
+.venv/
+.vscode/
+# Original CCTV dataset archives and metadata
+data/
